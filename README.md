@@ -1,68 +1,50 @@
-# 👋 Olá, eu sou Hyan!
+<div align="center">
 
-### 💻 Desenvolvedor | 🔐 Cybersecurity | 🚔 Tecnologia aplicada à Segurança Pública
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:02070B,50:06312A,100:02070B&height=110&section=header&text=HYAN%20%7C%20%3E_%20TERMINAL&fontSize=29&fontColor=44FF99&fontAlignY=51&animation=fadeIn" alt="Hyan | Terminal" />
 
-Sou estudante e entusiasta de tecnologia, desenvolvimento de sistemas, redes e cibersegurança.
+<img src="./assets/matrix-terminal.gif" width="100%" alt="Terminal animado com caracteres no estilo Matrix" />
 
-Atualmente trabalho no desenvolvimento de soluções voltadas para **automação, gestão, inteligência e segurança pública**, além de projetos web e estudos em infraestrutura e segurança da informação.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2600&pause=1100&color=40E99B&center=true&vCenter=true&width=640&lines=%24+whoami;%3E+Estudante+de+tecnologia;%3E+Aprendendo+Linux+e+programa%C3%A7%C3%A3o;%3E+Explorando+redes+e+ciberseguran%C3%A7a;%3E+Sempre+aprendendo..." alt="Linhas animadas de terminal sobre meus estudos" />
 
----
+</div>
 
-## 👨‍💻 Sobre mim
+### `hyan@linux:~$ whoami`
 
-- 🎓 Estudante de **Ciência da Computação**
-- 💻 Desenvolvendo aplicações com **Node.js, JavaScript, HTML e CSS**
-- 🗄️ Trabalhando com **MySQL, PostgreSQL e Supabase**
-- 🐧 Usuário de **Linux / Fedora / Kali Linux**
-- 🔐 Estudando **Cybersecurity, Blue Team e Ethical Hacking**
-- 🌐 Interesse em **Redes, APIs, servidores e infraestrutura**
-- 🤖 Explorando **IA aplicada ao desenvolvimento de software**
-- 🚔 Desenvolvendo soluções tecnológicas para **Segurança Pública**
-- 🎯 Objetivo: aprofundar conhecimentos em **Computação Forense e Perícia Digital**
+Sou curioso por tecnologia e estou **aprendendo programação, Linux, redes e cibersegurança**. Gosto de entender como os sistemas funcionam e de aprender colocando a mão na massa.
 
----
+Uso este GitHub para guardar exercícios, anotações e pequenos projetos conforme avanço nos estudos.
 
-## 🛠️ Linguagens e Ferramentas
+### `hyan@linux:~$ ls ~/estudos`
 
-<p align="left">
+<div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+![Linux](https://img.shields.io/badge/Linux-071A18?style=for-the-badge&logo=linux&logoColor=F6D34A)
+![C](https://img.shields.io/badge/C-071A18?style=for-the-badge&logo=c&logoColor=66C6FF)
+![Python](https://img.shields.io/badge/Python-071A18?style=for-the-badge&logo=python&logoColor=F9D35B)
+![Git](https://img.shields.io/badge/Git-071A18?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-071A18?style=for-the-badge&logo=github&logoColor=FFFFFF)
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+</div>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+```bash
+$ cat aprendizado.txt
+[+] Lógica de programação
+[+] Linguagens C e Python
+[+] Linux e linha de comando
+[+] Fundamentos de redes
+[+] Introdução à cibersegurança
+```
 
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+### `hyan@linux:~$ cat interesses.txt`
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-
-</p>
+Tenho interesse em **Red Team**, **Blue Team** e **computação forense**. Por enquanto, estou construindo os fundamentos para conhecer melhor cada área.
 
 ---
 
-## ⚡ Áreas de interesse
+<div align="center">
 
-```text
-Cybersecurity       ███████████████████░
-Desenvolvimento Web ███████████████████░
-Linux               ██████████████████░░
-Redes                ██████████████████░░
-Banco de Dados       █████████████████░░░
-Computação Forense   █████████████████░░░
-Inteligência / IA    ████████████████░░░░
+`[ status: aprendendo ]` &nbsp; ` [ modo: prática ]` &nbsp; ` [ próximo passo: continuar ]`
+
+<sub>Um comando, um exercício e um aprendizado por vez.</sub>
+
+</div>
